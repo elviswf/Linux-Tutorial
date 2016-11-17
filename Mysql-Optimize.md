@@ -116,5 +116,7 @@
 
 
 ## 资料
-
-
+- [MySQL性能优化的最佳20+条经验](http://coolshell.cn/articles/1846.html)
+- [MySQL索引原理及慢查询优化](http://tech.meituan.com/mysql-index.html)
+- [Mysql性能优化一](http://www.cnblogs.com/jiekzou/p/5371085.html)
+- [mysql处理海量数据时的一些优化查询速度方法](https://github.com/qiwsir/ITArticles/blob/master/Mysql/mysql%E5%A4%84%E7%90%86%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E6%97%B6%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BC%98%E5%8C%96%E6%9F%A5%E8%AF%A2%E9%80%9F%E5%BA%A6%E6%96%B9%E6%B3%95.md)
